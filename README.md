@@ -105,32 +105,44 @@ Designed using a component-based architecture, the application demonstrates mode
 
 ## 🛠 Technologies Used
 
-### Mobile Development
+### 📱 Mobile Development
 
 - React Native
 - JavaScript (ES6+)
 - Expo
 
-### Backend & Cloud
+### 🎨 User Interface
+
+- React Native Components
+- React Navigation
+- StyleSheet API
+- Responsive Mobile Design
+
+### ☁️ Backend & Cloud
 
 - Firebase Authentication
 - Firebase Firestore
 
-### Navigation
+### 🔄 State Management
 
-- React Navigation
+- React Context API
 
-### Development Tools
+### 📂 Database
+
+- Firebase Firestore (NoSQL)
+
+### 🧰 Development Tools
 
 - Visual Studio Code
 - Android Studio
 - Expo Go
+- Firebase Console
 
-### Version Control
+### 🔧 Version Control
 
 - Git
 - GitHub
-
+  
 ---
 
 ## 📱 Application Flow
